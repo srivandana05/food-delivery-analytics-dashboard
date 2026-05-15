@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,location,cuisine,rating,avg_cost
+R0001,Restaurant_1,Chennai,indian,3.0,461
+R0002,Restaurant_2,Hyderabad,Indian,3.1,199
+R0003,Restaurant_3,Hyderabad,Chinese,4.6,548
+R0004,Restaurant_4,Chennai,Italian,5.3,765
+R0005,Restaurant_5,Mumbai,Chinese,3.7,702
+R0006,Restaurant_6,Mumbai,Italian,3.0,549
+R0007,Restaurant_7,Chennai,Indian,3.4,432
+R0008,Restaurant_8,Hyderabad,Indian,3.9,785
+R0009,Restaurant_9,Chennai,Italian,3.4,121
+R0010,Restaurant_10,Hyderabad,indian,3.2,-34
+R0011,Restaurant_11,Chennai,Indian,4.7,684
+R0012,Restaurant_12,Mumbai,Indian,2.5,243
+R0013,Restaurant_13,Bangalore,Fast Food,4.1,343
+R0014,Restaurant_14,Hyderabad,Indian,4.9,771
+R0015,Restaurant_15,Bangalore,Fast Food,3.3,447
+R0016,Restaurant_16,Mumbai,Indian,4.3,168
+R0017,Restaurant_17,Chennai,Indian,4.5,183
+R0018,Restaurant_18,Mumbai,indian,4.5,339
+R0019,Restaurant_19,Bangalore,indian,3.8,197
+R0020,Restaurant_20,Mumbai,Indian,3.5,1
+R0021,Restaurant_21,Mumbai,Italian,5.0,-36
+R0022,Restaurant_22,Chennai,Italian,4.8,273
+R0023,Restaurant_23,Bangalore,Indian,3.5,390
+R0024,Restaurant_24,Bangalore,Italian,2.8,61
+R0025,Restaurant_25,Bangalore,Indian,2.7,645
+R0026,Restaurant_26,Hyderabad,indian,2.8,-44
+R0027,Restaurant_27,Mumbai,Chinese,4.2,512
+R0028,Restaurant_28,Bangalore,Fast Food,2.7,775
+R0029,Restaurant_29,Mumbai,Italian,3.5,702
+R0030,Restaurant_30,Chennai,Italian,4.8,194
+R0031,Restaurant_31,Chennai,indian,3.4,397
+R0032,Restaurant_32,Hyderabad,Italian,4.8,314
+R0033,Restaurant_33,Hyderabad,Indian,4.7,316
+R0034,Restaurant_34,Chennai,Indian,3.2,647
+R0035,Restaurant_35,Bangalore,Chinese,4.7,236
+R0036,Restaurant_36,Chennai,Chinese,4.7,553
+R0037,Restaurant_37,Mumbai,Chinese,3.7,55
+R0038,Restaurant_38,Hyderabad,Indian,3.1,-38
+R0039,Restaurant_39,Hyderabad,Chinese,4.1,95
+R0040,Restaurant_40,Chennai,Chinese,5.3,427
+R0041,Restaurant_41,Bangalore,Indian,4.4,580
+R0042,Restaurant_42,Bangalore,indian,3.0,664
+R0043,Restaurant_43,Mumbai,Italian,4.5,602
+R0044,Restaurant_44,Hyderabad,Fast Food,3.8,64
+R0045,Restaurant_45,Chennai,Indian,4.3,458
+R0046,Restaurant_46,Chennai,Indian,4.7,101
+R0047,Restaurant_47,Hyderabad,Fast Food,4.0,6
+R0048,Restaurant_48,Chennai,Fast Food,4.9,331
+R0049,Restaurant_49,Hyderabad,Chinese,4.7,106
+R0050,Restaurant_50,Bangalore,Fast Food,4.3,771
+R0051,Restaurant_51,Bangalore,Italian,3.0,82
+R0052,Restaurant_52,Chennai,Italian,5.0,112
+R0053,Restaurant_53,Bangalore,Italian,5.3,224
+R0054,Restaurant_54,Bangalore,Italian,2.9,644
+R0055,Restaurant_55,Mumbai,Italian,4.0,26
+R0056,Restaurant_56,Hyderabad,Chinese,3.3,786
+R0057,Restaurant_57,Hyderabad,Indian,4.8,-7
+R0058,Restaurant_58,Chennai,Fast Food,4.7,667
+R0059,Restaurant_59,Hyderabad,Indian,2.9,499
+R0060,Restaurant_60,Mumbai,Fast Food,5.1,267
+R0061,Restaurant_61,Chennai,Chinese,3.0,483
+R0062,Restaurant_62,Chennai,Chinese,4.9,534
+R0063,Restaurant_63,Hyderabad,indian,3.9,702
+R0064,Restaurant_64,Bangalore,indian,3.5,103
+R0065,Restaurant_65,Bangalore,Chinese,3.0,186
+R0066,Restaurant_66,Bangalore,Chinese,3.0,466
+R0067,Restaurant_67,Bangalore,Fast Food,4.5,170
+R0068,Restaurant_68,Mumbai,Chinese,4.2,259
+R0069,Restaurant_69,Chennai,Indian,2.9,547
+R0070,Restaurant_70,Bangalore,Fast Food,2.8,126
+R0071,Restaurant_71,Mumbai,Chinese,2.7,720
+R0072,Restaurant_72,Chennai,Fast Food,4.7,169
+R0073,Restaurant_73,Hyderabad,Fast Food,4.6,-13
+R0074,Restaurant_74,Hyderabad,Italian,2.7,603
+R0075,Restaurant_75,Mumbai,indian,4.2,380
+R0076,Restaurant_76,Chennai,Fast Food,2.8,696
+R0077,Restaurant_77,Bangalore,Fast Food,5.2,152
+R0078,Restaurant_78,Chennai,Italian,5.2,790
+R0079,Restaurant_79,Bangalore,Chinese,4.6,755
+R0080,Restaurant_80,Mumbai,Fast Food,5.3,397
+R0081,Restaurant_81,Bangalore,Italian,4.9,444
+R0082,Restaurant_82,Mumbai,Indian,5.0,633
+R0083,Restaurant_83,Chennai,Italian,4.2,74
+R0084,Restaurant_84,Chennai,indian,3.4,787
+R0085,Restaurant_85,Bangalore,indian,3.2,14
+R0086,Restaurant_86,Chennai,Chinese,3.5,742
+R0087,Restaurant_87,Bangalore,Chinese,4.4,733
+R0088,Restaurant_88,Chennai,indian,3.0,193
+R0089,Restaurant_89,Hyderabad,indian,3.3,476
+R0090,Restaurant_90,Bangalore,Fast Food,3.9,175
+R0091,Restaurant_91,Mumbai,indian,3.2,414
+R0092,Restaurant_92,Hyderabad,Chinese,4.3,592
+R0093,Restaurant_93,Mumbai,indian,5.3,656
+R0094,Restaurant_94,Chennai,Chinese,4.7,242
+R0095,Restaurant_95,Hyderabad,Indian,4.5,670
+R0096,Restaurant_96,Chennai,indian,4.2,330
+R0097,Restaurant_97,Bangalore,Chinese,4.0,574
+R0098,Restaurant_98,Mumbai,Italian,3.1,705
+R0099,Restaurant_99,Chennai,Fast Food,5.2,115
+R0100,Restaurant_100,Mumbai,Chinese,3.2,652
+R0101,Restaurant_101,Mumbai,indian,2.8,718
+R0102,Restaurant_102,Chennai,indian,4.8,788
+R0103,Restaurant_103,Bangalore,Indian,3.0,167
+R0104,Restaurant_104,Mumbai,Italian,3.6,224
+R0105,Restaurant_105,Chennai,Chinese,2.6,1
+R0106,Restaurant_106,Bangalore,Italian,2.9,323
+R0107,Restaurant_107,Chennai,Indian,3.0,619
+R0108,Restaurant_108,Bangalore,Fast Food,2.7,312
+R0109,Restaurant_109,Mumbai,Italian,4.5,516
+R0110,Restaurant_110,Hyderabad,Indian,5.0,-37
+R0111,Restaurant_111,Chennai,Chinese,3.6,730
+R0112,Restaurant_112,Mumbai,Fast Food,5.1,289
+R0113,Restaurant_113,Chennai,indian,3.1,551
+R0114,Restaurant_114,Chennai,Indian,3.5,488
+R0115,Restaurant_115,Bangalore,indian,3.0,38
+R0116,Restaurant_116,Chennai,Fast Food,4.4,-10
+R0117,Restaurant_117,Bangalore,Indian,3.8,253
+R0118,Restaurant_118,Mumbai,Indian,4.3,217
+R0119,Restaurant_119,Chennai,Fast Food,4.8,87
+R0120,Restaurant_120,Mumbai,Chinese,4.1,-45
+R0121,Restaurant_121,Hyderabad,Indian,4.4,191
+R0122,Restaurant_122,Mumbai,Fast Food,5.3,111
+R0123,Restaurant_123,Chennai,Italian,3.4,641
+R0124,Restaurant_124,Hyderabad,indian,3.6,758
+R0125,Restaurant_125,Bangalore,Indian,4.7,467
+R0126,Restaurant_126,Hyderabad,Italian,4.3,732
+R0127,Restaurant_127,Chennai,Indian,3.0,350
+R0128,Restaurant_128,Chennai,Chinese,3.6,733
+R0129,Restaurant_129,Mumbai,Fast Food,3.9,105
+R0130,Restaurant_130,Bangalore,Indian,3.8,34
+R0131,Restaurant_131,Chennai,Fast Food,3.0,661
+R0132,Restaurant_132,Chennai,Indian,5.3,-41
+R0133,Restaurant_133,Bangalore,Chinese,4.8,87
+R0134,Restaurant_134,Bangalore,Chinese,3.9,703
+R0135,Restaurant_135,Mumbai,Italian,4.5,662
+R0136,Restaurant_136,Hyderabad,Chinese,5.2,105
+R0137,Restaurant_137,Bangalore,Fast Food,2.9,357
+R0138,Restaurant_138,Chennai,Chinese,3.3,736
+R0139,Restaurant_139,Bangalore,Indian,4.1,174
+R0140,Restaurant_140,Chennai,Chinese,4.9,529
+R0141,Restaurant_141,Mumbai,Fast Food,2.6,133
+R0142,Restaurant_142,Hyderabad,Indian,5.5,144
+R0143,Restaurant_143,Mumbai,Italian,3.9,503
+R0144,Restaurant_144,Bangalore,Italian,3.6,345
+R0145,Restaurant_145,Chennai,Italian,3.4,612
+R0146,Restaurant_146,Bangalore,Indian,3.0,545
+R0147,Restaurant_147,Bangalore,Italian,4.9,83
+R0148,Restaurant_148,Bangalore,Chinese,5.4,258
+R0149,Restaurant_149,Bangalore,Indian,3.7,759
+R0150,Restaurant_150,Hyderabad,Indian,5.4,491
+R0151,Restaurant_151,Chennai,Indian,5.0,-42
+R0152,Restaurant_152,Bangalore,indian,3.9,119
+R0153,Restaurant_153,Chennai,Fast Food,4.5,239
+R0154,Restaurant_154,Hyderabad,indian,3.8,117
+R0155,Restaurant_155,Chennai,indian,4.2,293
+R0156,Restaurant_156,Chennai,indian,2.7,446
+R0157,Restaurant_157,Hyderabad,Fast Food,4.6,94
+R0158,Restaurant_158,Bangalore,indian,2.7,362
+R0159,Restaurant_159,Chennai,Italian,5.0,689
+R0160,Restaurant_160,Mumbai,Indian,5.0,767
+R0161,Restaurant_161,Chennai,Indian,3.2,537
+R0162,Restaurant_162,Bangalore,Chinese,3.5,684
+R0163,Restaurant_163,Mumbai,Italian,3.9,638
+R0164,Restaurant_164,Bangalore,Fast Food,4.3,406
+R0165,Restaurant_165,Chennai,Indian,3.4,650
+R0166,Restaurant_166,Hyderabad,indian,4.3,251
+R0167,Restaurant_167,Bangalore,Chinese,3.4,-5
+R0168,Restaurant_168,Bangalore,Chinese,2.7,-34
+R0169,Restaurant_169,Hyderabad,Indian,2.5,527
+R0170,Restaurant_170,Chennai,Italian,2.8,309
+R0171,Restaurant_171,Bangalore,Chinese,4.9,210
+R0172,Restaurant_172,Chennai,Indian,5.4,72
+R0173,Restaurant_173,Chennai,Italian,3.8,180
+R0174,Restaurant_174,Chennai,Indian,4.0,586
+R0175,Restaurant_175,Hyderabad,Indian,2.9,61
+R0176,Restaurant_176,Chennai,Italian,4.2,733
+R0177,Restaurant_177,Chennai,Italian,2.9,542
+R0178,Restaurant_178,Mumbai,Italian,4.3,195
+R0179,Restaurant_179,Mumbai,Indian,5.3,340
+R0180,Restaurant_180,Mumbai,Chinese,3.1,341
+R0181,Restaurant_181,Bangalore,Fast Food,4.8,277
+R0182,Restaurant_182,Bangalore,Fast Food,2.6,164
+R0183,Restaurant_183,Mumbai,Indian,3.6,696
+R0184,Restaurant_184,Hyderabad,Indian,2.8,316
+R0185,Restaurant_185,Hyderabad,Chinese,3.6,31
+R0186,Restaurant_186,Mumbai,Italian,3.0,755
+R0187,Restaurant_187,Bangalore,Indian,3.6,771
+R0188,Restaurant_188,Bangalore,indian,3.8,25
+R0189,Restaurant_189,Hyderabad,Italian,3.4,476
+R0190,Restaurant_190,Chennai,Indian,4.5,681
+R0191,Restaurant_191,Hyderabad,indian,5.3,452
+R0192,Restaurant_192,Chennai,Chinese,3.7,691
+R0193,Restaurant_193,Bangalore,indian,3.1,428
+R0194,Restaurant_194,Bangalore,Indian,3.3,321
+R0195,Restaurant_195,Mumbai,Fast Food,5.1,214
+R0196,Restaurant_196,Bangalore,Indian,4.2,213
+R0197,Restaurant_197,Chennai,Fast Food,3.9,59
+R0198,Restaurant_198,Hyderabad,Chinese,2.9,256
+R0199,Restaurant_199,Mumbai,Chinese,3.8,149
+R0200,Restaurant_200,Chennai,Italian,3.3,175
+R0201,Restaurant_201,Hyderabad,Italian,5.3,134
+R0202,Restaurant_202,Hyderabad,Fast Food,5.2,-20
+R0203,Restaurant_203,Hyderabad,Fast Food,2.8,563
+R0204,Restaurant_204,Bangalore,Chinese,4.0,720
+R0205,Restaurant_205,Hyderabad,indian,3.2,48
+R0206,Restaurant_206,Bangalore,Fast Food,3.7,288
+R0207,Restaurant_207,Hyderabad,Fast Food,5.1,760
+R0208,Restaurant_208,Hyderabad,indian,4.1,746
+R0209,Restaurant_209,Bangalore,Italian,3.5,215
+R0210,Restaurant_210,Bangalore,Italian,3.1,601
+R0211,Restaurant_211,Chennai,Fast Food,4.9,763
+R0212,Restaurant_212,Hyderabad,Italian,4.4,747
+R0213,Restaurant_213,Bangalore,Italian,3.9,299
+R0214,Restaurant_214,Chennai,Italian,3.2,677
+R0215,Restaurant_215,Chennai,Chinese,3.5,493
+R0216,Restaurant_216,Bangalore,Indian,5.4,406
+R0217,Restaurant_217,Hyderabad,Fast Food,4.1,764
+R0218,Restaurant_218,Chennai,Fast Food,3.7,37
+R0219,Restaurant_219,Hyderabad,Chinese,4.1,12
+R0220,Restaurant_220,Hyderabad,Indian,4.8,336
+R0221,Restaurant_221,Chennai,Indian,3.5,740
+R0222,Restaurant_222,Bangalore,Chinese,3.0,408
+R0223,Restaurant_223,Hyderabad,indian,4.3,535
+R0224,Restaurant_224,Mumbai,indian,4.5,767
+R0225,Restaurant_225,Bangalore,Indian,4.6,585
+R0226,Restaurant_226,Chennai,indian,5.1,218
+R0227,Restaurant_227,Mumbai,indian,3.6,746
+R0228,Restaurant_228,Hyderabad,indian,2.7,582
+R0229,Restaurant_229,Bangalore,Indian,5.4,295
+R0230,Restaurant_230,Mumbai,indian,3.8,673
+R0231,Restaurant_231,Bangalore,Fast Food,4.4,609
+R0232,Restaurant_232,Hyderabad,Indian,4.5,27
+R0233,Restaurant_233,Bangalore,Chinese,4.1,314
+R0234,Restaurant_234,Mumbai,indian,3.1,-37
+R0235,Restaurant_235,Bangalore,Italian,4.8,85
+R0236,Restaurant_236,Chennai,Indian,4.9,253
+R0237,Restaurant_237,Chennai,Chinese,4.2,346
+R0238,Restaurant_238,Mumbai,Fast Food,4.0,741
+R0239,Restaurant_239,Bangalore,Chinese,2.8,28
+R0240,Restaurant_240,Mumbai,indian,2.8,704
+R0241,Restaurant_241,Bangalore,Italian,3.5,654
+R0242,Restaurant_242,Hyderabad,indian,3.4,367
+R0243,Restaurant_243,Chennai,Chinese,5.4,191
+R0244,Restaurant_244,Hyderabad,Indian,4.9,0
+R0245,Restaurant_245,Bangalore,Italian,4.5,693
+R0246,Restaurant_246,Hyderabad,Italian,4.1,720
+R0247,Restaurant_247,Mumbai,Chinese,3.0,333
+R0248,Restaurant_248,Mumbai,indian,5.4,324
+R0249,Restaurant_249,Bangalore,Chinese,3.6,679
+R0250,Restaurant_250,Chennai,Italian,2.8,155
+R0251,Restaurant_251,Mumbai,Chinese,4.0,775
+R0252,Restaurant_252,Chennai,Italian,5.1,438
+R0253,Restaurant_253,Bangalore,indian,5.2,330
+R0254,Restaurant_254,Chennai,Indian,2.5,260
+R0255,Restaurant_255,Bangalore,Indian,5.2,324
+R0256,Restaurant_256,Hyderabad,Chinese,3.3,581
+R0257,Restaurant_257,Bangalore,Italian,2.6,541
+R0258,Restaurant_258,Hyderabad,Indian,5.0,-9
+R0259,Restaurant_259,Bangalore,Italian,5.1,482
+R0260,Restaurant_260,Mumbai,indian,4.3,471
+R0261,Restaurant_261,Mumbai,Chinese,4.2,774
+R0262,Restaurant_262,Chennai,Italian,4.9,102
+R0263,Restaurant_263,Bangalore,Chinese,4.9,261
+R0264,Restaurant_264,Bangalore,Italian,5.2,243
+R0265,Restaurant_265,Bangalore,Italian,4.2,547
+R0266,Restaurant_266,Chennai,indian,5.4,62
+R0267,Restaurant_267,Mumbai,Chinese,5.5,650
+R0268,Restaurant_268,Bangalore,Fast Food,2.8,61
+R0269,Restaurant_269,Chennai,Italian,5.0,124
+R0270,Restaurant_270,Bangalore,Italian,4.0,771
+R0271,Restaurant_271,Hyderabad,Indian,3.7,251
+R0272,Restaurant_272,Bangalore,Chinese,4.3,465
+R0273,Restaurant_273,Hyderabad,Fast Food,2.7,683
+R0274,Restaurant_274,Chennai,indian,4.0,170
+R0275,Restaurant_275,Chennai,Fast Food,5.1,120
+R0276,Restaurant_276,Mumbai,indian,3.1,267
+R0277,Restaurant_277,Bangalore,Fast Food,3.8,162
+R0278,Restaurant_278,Chennai,Fast Food,5.3,202
+R0279,Restaurant_279,Mumbai,Chinese,3.8,73
+R0280,Restaurant_280,Bangalore,Indian,3.6,589
+R0281,Restaurant_281,Chennai,Fast Food,3.8,162
+R0282,Restaurant_282,Hyderabad,Italian,4.1,573
+R0283,Restaurant_283,Chennai,Italian,4.4,34
+R0284,Restaurant_284,Hyderabad,Italian,4.9,465
+R0285,Restaurant_285,Mumbai,Indian,3.9,14
+R0286,Restaurant_286,Mumbai,Fast Food,5.0,267
+R0287,Restaurant_287,Bangalore,indian,4.1,295
+R0288,Restaurant_288,Bangalore,indian,3.5,581
+R0289,Restaurant_289,Bangalore,Chinese,4.5,192
+R0290,Restaurant_290,Mumbai,Indian,4.7,86
+R0291,Restaurant_291,Hyderabad,Fast Food,4.2,196
+R0292,Restaurant_292,Bangalore,Italian,2.7,390
+R0293,Restaurant_293,Bangalore,Indian,3.0,-6
+R0294,Restaurant_294,Mumbai,Indian,3.4,607
+R0295,Restaurant_295,Hyderabad,Fast Food,3.3,637
+R0296,Restaurant_296,Chennai,Chinese,4.5,503
+R0297,Restaurant_297,Bangalore,Chinese,2.6,758
+R0298,Restaurant_298,Chennai,Chinese,4.8,38
+R0299,Restaurant_299,Chennai,Italian,3.3,679
+R0300,Restaurant_300,Bangalore,Italian,3.4,177
+R0301,Restaurant_301,Mumbai,Fast Food,4.1,759
+R0302,Restaurant_302,Bangalore,Chinese,3.1,240
+R0303,Restaurant_303,Hyderabad,Fast Food,5.2,371
+R0304,Restaurant_304,Hyderabad,Chinese,2.8,16
+R0305,Restaurant_305,Bangalore,Indian,3.8,200
+R0306,Restaurant_306,Chennai,indian,5.0,-10
+R0307,Restaurant_307,Hyderabad,indian,4.3,48
+R0308,Restaurant_308,Hyderabad,Chinese,3.4,255
+R0309,Restaurant_309,Bangalore,Fast Food,3.8,405
+R0310,Restaurant_310,Bangalore,Italian,4.6,540
+R0311,Restaurant_311,Mumbai,Chinese,5.4,250
+R0312,Restaurant_312,Bangalore,Chinese,5.2,148
+R0313,Restaurant_313,Bangalore,Italian,3.5,608
+R0314,Restaurant_314,Hyderabad,Chinese,5.5,437
+R0315,Restaurant_315,Hyderabad,Indian,2.5,55
+R0316,Restaurant_316,Hyderabad,Italian,2.6,350
+R0317,Restaurant_317,Chennai,Indian,5.0,654
+R0318,Restaurant_318,Hyderabad,indian,3.1,426
+R0319,Restaurant_319,Hyderabad,Italian,2.7,71
+R0320,Restaurant_320,Bangalore,Italian,3.2,26
+R0321,Restaurant_321,Mumbai,Fast Food,3.8,261
+R0322,Restaurant_322,Hyderabad,Fast Food,4.7,61
+R0323,Restaurant_323,Mumbai,Italian,4.4,758
+R0324,Restaurant_324,Hyderabad,indian,3.2,631
+R0325,Restaurant_325,Hyderabad,Chinese,4.0,467
+R0326,Restaurant_326,Mumbai,Fast Food,5.3,146
+R0327,Restaurant_327,Bangalore,indian,4.9,47
+R0328,Restaurant_328,Hyderabad,indian,3.5,408
+R0329,Restaurant_329,Mumbai,Fast Food,5.4,790
+R0330,Restaurant_330,Hyderabad,Chinese,4.6,179
+R0331,Restaurant_331,Chennai,Fast Food,2.7,117
+R0332,Restaurant_332,Chennai,indian,2.6,758
+R0333,Restaurant_333,Chennai,Indian,3.0,726
+R0334,Restaurant_334,Chennai,Fast Food,4.7,-43
+R0335,Restaurant_335,Bangalore,indian,3.1,121
+R0336,Restaurant_336,Chennai,Fast Food,4.0,309
+R0337,Restaurant_337,Mumbai,indian,2.8,144
+R0338,Restaurant_338,Hyderabad,Chinese,5.3,218
+R0339,Restaurant_339,Mumbai,indian,3.5,-32
+R0340,Restaurant_340,Chennai,Italian,5.2,303
+R0341,Restaurant_341,Bangalore,Indian,5.3,-2
+R0342,Restaurant_342,Chennai,indian,2.5,413
+R0343,Restaurant_343,Chennai,Fast Food,3.9,305
+R0344,Restaurant_344,Bangalore,Fast Food,2.6,799
+R0345,Restaurant_345,Bangalore,indian,5.2,107
+R0346,Restaurant_346,Bangalore,Italian,4.1,15
+R0347,Restaurant_347,Bangalore,indian,2.7,520
+R0348,Restaurant_348,Bangalore,Chinese,2.8,770
+R0349,Restaurant_349,Bangalore,Italian,3.7,257
+R0350,Restaurant_350,Hyderabad,indian,5.3,286
+R0351,Restaurant_351,Chennai,Indian,4.6,620
+R0352,Restaurant_352,Chennai,Italian,5.1,732
+R0353,Restaurant_353,Bangalore,indian,3.6,70
+R0354,Restaurant_354,Mumbai,Indian,2.6,715
+R0355,Restaurant_355,Bangalore,indian,5.4,353
+R0356,Restaurant_356,Hyderabad,Chinese,2.6,722
+R0357,Restaurant_357,Mumbai,Fast Food,5.3,596
+R0358,Restaurant_358,Hyderabad,indian,3.6,735
+R0359,Restaurant_359,Mumbai,Italian,2.5,517
+R0360,Restaurant_360,Mumbai,indian,4.6,792
+R0361,Restaurant_361,Bangalore,indian,5.4,45
+R0362,Restaurant_362,Hyderabad,indian,5.4,63
+R0363,Restaurant_363,Mumbai,indian,3.0,378
+R0364,Restaurant_364,Hyderabad,Italian,3.0,489
+R0365,Restaurant_365,Bangalore,Italian,4.2,767
+R0366,Restaurant_366,Bangalore,indian,4.4,-49
+R0367,Restaurant_367,Bangalore,Fast Food,4.7,161
+R0368,Restaurant_368,Bangalore,indian,3.0,529
+R0369,Restaurant_369,Chennai,Italian,5.4,589
+R0370,Restaurant_370,Mumbai,Chinese,4.4,282
+R0371,Restaurant_371,Chennai,indian,5.0,-27
+R0372,Restaurant_372,Bangalore,indian,4.1,714
+R0373,Restaurant_373,Mumbai,indian,3.7,317
+R0374,Restaurant_374,Mumbai,indian,5.4,691
+R0375,Restaurant_375,Hyderabad,Indian,4.2,455
+R0376,Restaurant_376,Bangalore,indian,5.1,125
+R0377,Restaurant_377,Chennai,Italian,5.4,378
+R0378,Restaurant_378,Hyderabad,Italian,4.5,682
+R0379,Restaurant_379,Mumbai,Indian,4.1,391
+R0380,Restaurant_380,Chennai,indian,2.5,497
+R0381,Restaurant_381,Bangalore,Fast Food,2.6,463
+R0382,Restaurant_382,Chennai,indian,3.1,310
+R0383,Restaurant_383,Chennai,Italian,3.1,223
+R0384,Restaurant_384,Chennai,Chinese,3.3,126
+R0385,Restaurant_385,Hyderabad,Chinese,3.4,213
+R0386,Restaurant_386,Mumbai,Fast Food,3.6,135
+R0387,Restaurant_387,Chennai,indian,3.8,476
+R0388,Restaurant_388,Mumbai,Indian,2.8,228
+R0389,Restaurant_389,Hyderabad,indian,2.6,655
+R0390,Restaurant_390,Bangalore,Fast Food,4.5,147
+R0391,Restaurant_391,Bangalore,Fast Food,4.1,298
+R0392,Restaurant_392,Chennai,Fast Food,3.8,370
+R0393,Restaurant_393,Hyderabad,Chinese,4.4,254
+R0394,Restaurant_394,Bangalore,indian,5.0,13
+R0395,Restaurant_395,Hyderabad,indian,3.8,239
+R0396,Restaurant_396,Hyderabad,Indian,4.4,-33
+R0397,Restaurant_397,Chennai,Fast Food,5.4,13
+R0398,Restaurant_398,Chennai,Fast Food,5.0,279
+R0399,Restaurant_399,Hyderabad,Italian,3.8,712
+R0400,Restaurant_400,Hyderabad,Italian,4.4,-34
+R0401,Restaurant_401,Chennai,Chinese,3.0,392
+R0402,Restaurant_402,Hyderabad,indian,4.2,90
+R0403,Restaurant_403,Chennai,Indian,5.4,257
+R0404,Restaurant_404,Mumbai,Indian,4.1,393
+R0405,Restaurant_405,Hyderabad,Fast Food,5.3,445
+R0406,Restaurant_406,Chennai,Indian,3.7,375
+R0407,Restaurant_407,Hyderabad,Fast Food,5.5,424
+R0408,Restaurant_408,Chennai,indian,4.2,781
+R0409,Restaurant_409,Hyderabad,Indian,2.6,194
+R0410,Restaurant_410,Bangalore,Fast Food,4.3,399
+R0411,Restaurant_411,Bangalore,indian,3.3,751
+R0412,Restaurant_412,Hyderabad,indian,2.6,300
+R0413,Restaurant_413,Bangalore,Fast Food,5.0,548
+R0414,Restaurant_414,Hyderabad,Fast Food,3.3,660
+R0415,Restaurant_415,Hyderabad,Chinese,4.9,110
+R0416,Restaurant_416,Mumbai,indian,3.4,89
+R0417,Restaurant_417,Mumbai,Fast Food,3.1,442
+R0418,Restaurant_418,Bangalore,indian,5.4,537
+R0419,Restaurant_419,Mumbai,Indian,3.6,480
+R0420,Restaurant_420,Mumbai,Italian,4.3,342
+R0421,Restaurant_421,Hyderabad,Italian,4.3,791
+R0422,Restaurant_422,Chennai,Fast Food,4.2,350
+R0423,Restaurant_423,Hyderabad,Fast Food,5.2,-1
+R0424,Restaurant_424,Mumbai,indian,4.5,693
+R0425,Restaurant_425,Hyderabad,Fast Food,3.7,244
+R0426,Restaurant_426,Bangalore,indian,5.1,374
+R0427,Restaurant_427,Chennai,Fast Food,3.0,-39
+R0428,Restaurant_428,Mumbai,indian,4.1,284
+R0429,Restaurant_429,Mumbai,Fast Food,5.4,-36
+R0430,Restaurant_430,Hyderabad,Chinese,4.4,-23
+R0431,Restaurant_431,Hyderabad,indian,5.0,337
+R0432,Restaurant_432,Hyderabad,Chinese,4.5,241
+R0433,Restaurant_433,Hyderabad,Chinese,5.0,782
+R0434,Restaurant_434,Mumbai,Chinese,5.3,199
+R0435,Restaurant_435,Hyderabad,Chinese,3.3,454
+R0436,Restaurant_436,Mumbai,Indian,3.0,47
+R0437,Restaurant_437,Hyderabad,Italian,4.0,764
+R0438,Restaurant_438,Chennai,Indian,4.6,286
+R0439,Restaurant_439,Chennai,Fast Food,3.2,-12
+R0440,Restaurant_440,Hyderabad,Fast Food,2.5,-13
+R0441,Restaurant_441,Hyderabad,Italian,3.5,249
+R0442,Restaurant_442,Bangalore,Italian,5.4,128
+R0443,Restaurant_443,Chennai,Italian,4.6,558
+R0444,Restaurant_444,Mumbai,Chinese,3.7,418
+R0445,Restaurant_445,Chennai,Indian,3.1,231
+R0446,Restaurant_446,Mumbai,Fast Food,3.6,699
+R0447,Restaurant_447,Hyderabad,Indian,3.0,113
+R0448,Restaurant_448,Chennai,Indian,2.8,402
+R0449,Restaurant_449,Chennai,Indian,5.2,46
+R0450,Restaurant_450,Bangalore,Italian,5.5,718
+R0451,Restaurant_451,Bangalore,Italian,3.0,258
+R0452,Restaurant_452,Chennai,Fast Food,2.7,211
+R0453,Restaurant_453,Chennai,Fast Food,3.5,242
+R0454,Restaurant_454,Chennai,Fast Food,3.9,719
+R0455,Restaurant_455,Mumbai,Indian,3.1,198
+R0456,Restaurant_456,Hyderabad,Italian,3.4,194
+R0457,Restaurant_457,Bangalore,Chinese,3.1,200
+R0458,Restaurant_458,Hyderabad,Indian,4.8,72
+R0459,Restaurant_459,Bangalore,indian,4.6,274
+R0460,Restaurant_460,Bangalore,Indian,4.4,630
+R0461,Restaurant_461,Bangalore,Italian,3.7,450
+R0462,Restaurant_462,Chennai,indian,5.2,636
+R0463,Restaurant_463,Bangalore,Indian,5.4,730
+R0464,Restaurant_464,Hyderabad,Italian,3.0,665
+R0465,Restaurant_465,Bangalore,Italian,3.2,786
+R0466,Restaurant_466,Hyderabad,Chinese,4.1,15
+R0467,Restaurant_467,Bangalore,Indian,2.8,776
+R0468,Restaurant_468,Bangalore,Italian,3.8,785
+R0469,Restaurant_469,Chennai,Fast Food,4.2,8
+R0470,Restaurant_470,Hyderabad,Italian,4.1,680
+R0471,Restaurant_471,Bangalore,Chinese,3.5,447
+R0472,Restaurant_472,Bangalore,Italian,4.1,322
+R0473,Restaurant_473,Hyderabad,Indian,5.4,215
+R0474,Restaurant_474,Bangalore,Indian,3.1,602
+R0475,Restaurant_475,Mumbai,indian,4.5,185
+R0476,Restaurant_476,Chennai,Indian,2.6,167
+R0477,Restaurant_477,Hyderabad,indian,2.7,476
+R0478,Restaurant_478,Chennai,Fast Food,4.2,763
+R0479,Restaurant_479,Mumbai,Chinese,2.8,390
+R0480,Restaurant_480,Mumbai,Fast Food,2.6,599
+R0481,Restaurant_481,Mumbai,indian,3.0,355
+R0482,Restaurant_482,Hyderabad,Italian,4.2,693
+R0483,Restaurant_483,Mumbai,Italian,4.6,550
+R0484,Restaurant_484,Hyderabad,Fast Food,3.1,538
+R0485,Restaurant_485,Hyderabad,Italian,4.5,597
+R0486,Restaurant_486,Bangalore,indian,3.0,418
+R0487,Restaurant_487,Hyderabad,Chinese,4.3,59
+R0488,Restaurant_488,Mumbai,Indian,3.7,302
+R0489,Restaurant_489,Hyderabad,indian,4.5,762
+R0490,Restaurant_490,Hyderabad,indian,5.5,40
+R0491,Restaurant_491,Chennai,Indian,5.3,363
+R0492,Restaurant_492,Mumbai,Indian,2.5,651
+R0493,Restaurant_493,Hyderabad,Chinese,5.2,22
+R0494,Restaurant_494,Bangalore,Chinese,2.7,634
+R0495,Restaurant_495,Hyderabad,Chinese,5.4,496
+R0496,Restaurant_496,Hyderabad,Italian,3.3,671
+R0497,Restaurant_497,Chennai,indian,3.6,247
+R0498,Restaurant_498,Mumbai,Indian,2.8,594
+R0499,Restaurant_499,Mumbai,indian,2.8,232
+R0500,Restaurant_500,Bangalore,indian,4.7,454
